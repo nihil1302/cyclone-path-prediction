@@ -6,7 +6,7 @@ How to Run
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/cyclone-path-prediction.git
+git clone https://github.com/nihil1302/cyclone-path-prediction.git
 cd cyclone-path-prediction
 ```
 2. Install dependencies
